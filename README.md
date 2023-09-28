@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mauricio de Oliveira Correa</h1>
-<h3 align="center">Fullstack Dev</h3>
+<h1 align="center">Olá! Me chama Maurício de Oliveira Corrêa, sou desenvolvedor fullstack</h1>
+<h3 align="center">Atualmente continuo estudando tecnologias</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-oc&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-oc" /> </p>
 
